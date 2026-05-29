@@ -29114,4 +29114,14 @@
         <Description>AutoSplitter for WingMine</Description>
         <Website>https://github.com/jschotte/Wingmine-Autosplitter</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Schrodinger's Cat Burglar</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Just-Ashley/Schrodinger-s-Cat-Burglar-AutoSplitter/refs/heads/main/SCB%20(cat)%20autosplitter.txt</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>AutoSplitter for Schrodinger's Cat Burglar created by JustAshley</Description>
+    </AutoSplitter>
 </AutoSplitters>
