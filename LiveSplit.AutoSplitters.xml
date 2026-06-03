@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <AutoSplitters>
     <AutoSplitter>
+         <Games>
+            <Game>Schrodinger's Cat Burglar</Game>
+                </Games>
+                    <URLs>                    
+                        <URL>https://raw.githubusercontent.com/Just-Ashley/Schrodinger-s-Cat-Burglar-AutoSplitter/refs/heads/main/SCB%20(cat)%20autosplitter.txt</URL>
+                                                            </URLs>
+                                                                    <Type>Script</Type>
+                                                                            <Description>Autosplitter for Schrodinger's Cat Burglar by Just Ashley</Description>
+                                                                                    <Website>https://github.com/Just-Ashley/Schrodinger-s-Cat-Burglar-AutoSplitter/blob/main/SCB%20(cat)%20autosplitter.txt</Website>
+                                                                                        </AutoSplitter>
+    <AutoSplitter>
         <Games>
             <Game>Quartet</Game>
         </Games>
