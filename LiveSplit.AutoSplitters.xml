@@ -2,6 +2,16 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Arrow's Way</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Just-Ashley/Arrow-s-Way-IGT/refs/heads/main/arrowsway.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>IGT, Start, and Reset by JustAshley</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>007 First Light</Game>
         </Games>
         <URLs>
